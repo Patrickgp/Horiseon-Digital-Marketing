@@ -144,11 +144,12 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    /* clear: both; */
+    /* clear: both; Does not affect layout*/
     float: right;
     width: 20%;
     height: 100%;
-   /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; Removed due to font family being defined in body css selector*/
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    Removed due to font family being defined in body css selector*/
     background-color: #2589bd;
 }
 
