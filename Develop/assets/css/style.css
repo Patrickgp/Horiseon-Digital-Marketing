@@ -34,7 +34,8 @@ span {
 nav {
     padding-top: 15px;
     margin-right: 20px;
-/*    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; Removed due to font family being defined in header css selector*/
+    /*font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    Removed due to font family being defined in header css selector*/
     float: right;
     margin-top: 10px;
 }
@@ -87,11 +88,12 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; Removed due to font family being defined in body css selector */
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    Removed due to font family being defined in body css selector */
     background-color: #0072bb;
     color: #ffffff;
 }
-/* removed due to being redundant
+/* removed due to being redundant 
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +144,7 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-/*  Not Necessary  clear: both; */
+    /* clear: both; */
     float: right;
     width: 20%;
     height: 100%;
