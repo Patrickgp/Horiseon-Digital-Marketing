@@ -34,8 +34,7 @@ span {
 nav {
     padding-top: 15px;
     margin-right: 20px;
-    /*font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
-    Removed due to font family being defined in header css selector*/
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     float: right;
     margin-top: 10px;
 }
@@ -148,8 +147,7 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    Removed due to font family being defined in body css selector*/
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2589bd;
 }
 
